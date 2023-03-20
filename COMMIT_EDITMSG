@@ -1,0 +1,15 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch Feature1
+# Changes to be committed:
+#	new file:   .vscode/settings.json
+#	new file:   multi/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#	new file:   multi/views/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#	new file:   parallel/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#	new file:   parallel/views/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#	new file:   pom/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#	new file:   python/__pycache__/classes.cpython-310.pyc
+#	new file:   suite/__pycache__/test_echo_box.cpython-311-pytest-7.2.1.pyc
+#
